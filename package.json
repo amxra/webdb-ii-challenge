@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "helmet": "^3.21.2"
+    "helmet": "^3.21.2",
+    "knex": "^0.20.1"
   }
 }
